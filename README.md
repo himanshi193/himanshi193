@@ -2,7 +2,9 @@
 
 # Hi 👋, I'm Himanshi
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=500&lines=3rd+Year+B.Tech+Student;Self-Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development+with+React;Always+Learning+Something+New+%F0%9F%92%9C" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Third+Year+Computer+Science+Student;Self-Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development+with+React;Always+Learning+Something+New+%F0%9F%92%9C" />
+</p>
 
 ### Building Skills One Commit at a Time 🚀
 
@@ -62,13 +64,13 @@
 ---
 
 ### 🚀 Projects
-#### [Snake Game](https://github.com/himanshi193/-Snake_Game_Project)
+** [Snake Game](https://github.com/himanshi193/-Snake_Game_Project)
 - Built using HTML, CSS, JavaScript
 - Focused on game logic and DOM manipulation
 
 ---
 
-#### [Tic Tac Toe](https://github.com/himanshi193/TIC_TAC_TOE-)
+** [Tic Tac Toe](https://github.com/himanshi193/TIC_TAC_TOE-)
 - Simple interactive game
 - Strengthened JavaScript fundamentals
 
@@ -87,16 +89,20 @@
 ---
 
 ### 📊 Activity & Coding Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshi193&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=himanshi193theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshi193&theme=tokyonight&hide_border=true" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=himanshi193&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=himanshi193&theme=tokyo-night)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshi193&theme=tokyo-night" />
+</p>
 
 ---
-
 ### ✨ Qu
 > "Consistency is more important than perfection."
 
