@@ -49,11 +49,11 @@
 </p>
 
 ### 🚀 Projects
-#### [Snake Game](https://github.com/YOUR_USERNAME/Snake_Game_Project)
+#### [Snake Game](https://github.com/himanshi193/-Snake_Game_Project)
 - Built using HTML, CSS, JavaScript
 - Focused on game logic and DOM manipulation
 
-#### [Tic Tac Toe](https://github.com/YOUR_USERNAME/TIC_TAC_TOE)
+#### [Tic Tac Toe](https://github.com/himanshi193/TIC_TAC_TOE-)
 - Simple interactive game
 - Strengthened JavaScript fundamentals
 
