@@ -2,7 +2,7 @@
 ### Building Skills One Commit at a Time 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Second+Year+Computer+Science+Student;Self-Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development+with+React;Always+Learning+Something+New+%F0%9F%92%9C" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Third+Year+Computer+Science+Student;Self-Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development+with+React;Always+Learning+Something+New+%F0%9F%92%9C" />
 </p>
 
 ---
