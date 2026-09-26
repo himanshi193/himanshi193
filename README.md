@@ -13,7 +13,7 @@
 - 💻 Web Development journey
 - 🎯 Focused on consistency & growth
   
-  ---
+---
 
 ### 👨‍💻 Coding Profiles
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hsingh45968)
@@ -28,65 +28,93 @@
 ![Problem Solving](https://img.shields.io/badge/Problem_Solving-orange?style=flat)
 ![C++](https://img.shields.io/badge/C++-blue?style=flat)
 
+
 ---
+
 
 ### 🏅 HackerRank Badges
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-</p>
+  <p>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+   </p>
+
 
 ---
+
 
 ### 📜 Certifications
-![HackerRank](https://img.shields.io/badge/HackerRank-JAVA_BASICS-green)
-- Skills verified: Core Java, OOPs, Exception Handling, Basic Data Structures
+  ![HackerRank](https://img.shields.io/badge/HackerRank-JAVA_BASICS-green)
+  - Skills verified: Core Java, OOPs, Exception Handling, Basic Data Structures
 
- ---
-
-### 🎯 Achievements
-- **HackerRank Orchestrate 2026 (June Edition)**
-    - Built and deployed an AI agent as part of the hackathon.
-
-  ---
-
-### 🛠️ Tech Stack
-<p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,git,github,vscode" />
-</p>
 
 ---
+
+
+### 🎯 Achievements
+   - **HackerRank Orchestrate 2026 (June Edition)**
+      - Built and deployed an AI agent as part of the hackathon.
+
+
+---
+
+
+### 🛠️ Tech Stack
+   <p>
+       <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,git,github,vscode" />
+   </p>
+
+
+---
+
 
 ### 🚀 Projects
 #### [Snake Game](https://github.com/himanshi193/-Snake_Game_Project)
-- Built using HTML, CSS, JavaScript
-- Focused on game logic and DOM manipulation
+ - Built using HTML, CSS, JavaScript
+ - Focused on game logic and DOM manipulation
+
 
 ---
+
 
 #### [Tic Tac Toe](https://github.com/himanshi193/TIC_TAC_TOE-)
 - Simple interactive game
 - Strengthened JavaScript fundamentals
 
-  ---
-
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/himanshi-s-8a525b33b)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hsingh45968@gmail.com)
 
 ---
+
+
+### 📫 Connect With Me
+   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/himanshi-s-8a525b33b)
+   [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hsingh45968@gmail.com)
+
+
+---
+
 
 ### 🎯 Current Focus
 - 📚 Learning Data Structures & Algorithm
 - 💡 Improving problem-solving skills
 
+
+--
+
+
 ### 📊 Activity & Coding Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
 
+
+---
+
+
 ### 📈 Contribution Graph
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+
+
+---
+
 
 ### ✨ Quote
 > "Consistency is more important than perfection."
