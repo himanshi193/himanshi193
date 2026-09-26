@@ -1,8 +1,9 @@
-<!-- Typing Animation -->
-<h1 align="center">Hi 👋, I'm Himanshi Singh </h1>
-<h3 align="center">Building Skills One Commit at a Time 🚀</h3>
-<p align="center">Exploring Web Development with React</p>
-<p align="center">Always Learning Something New ✨</p>
+# Hi 👋, I'm Himanshi
+### Building Skills One Commit at a Time 🚀
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Second+Year+Computer+Science+Student;Self-Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development+with+React;Always+Learning+Something+New+%F0%9F%92%9C" />
+</p>
 
 ---
 
@@ -20,10 +21,7 @@
 [![GFG](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/hsinghtyi0)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/each_sheep_75)
 
-### 📚 DSA Journey
-![TakeUForward](https://img.shields.io/badge/TakeUForward-A2Z_DSA-orange)
-![Striver Sheet](https://img.shields.io/badge/STRIVER_A2Z_DSA-blue)
-> 📌 Currently solving Striver's A2Z DSA Sheet
+
 
 ### 🏆 HackerRank Skills
 ![5 Star](https://img.shields.io/badge/5%20Star-yellow?style=flat)
