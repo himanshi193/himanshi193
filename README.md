@@ -12,8 +12,7 @@
 - 🌱 Self-learning DSA
 - 💻 Web Development journey
 - 🎯 Focused on consistency & growth
-- 
-- 
+  
 
 ### 👨‍💻 Coding Profiles
 [![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hsingh45968)
