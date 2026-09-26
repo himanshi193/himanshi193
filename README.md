@@ -1,156 +1,62 @@
-<p align="center">
-# Hi 👋, I'm Himanshi
-### Building Skills One Commit at a Time 🚀
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Third+Year+Computer+Science+Student;Self-Learning+Data+Structures+%26+Algorithms;Exploring+Web+Development+with+React;Always+Learning+Something+New+%F0%9F%92%9C" />
-</p>
-
----
-
 
 ### 👩‍💻 About Me
-
-
 - 🎓 3rd Year B.Tech Student
 - 🌱 Self-learning DSA
 - 💻 Web Development journey
 - 🎯 Focused on consistency & growth
-  
+
 ---
 
-### 👨‍💻 Coding Profiles
-
-
+### 👩‍💻 Coding Profiles
 <p align="center">
-[HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/hsingh45968)
-[LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/himanshi_singh_/)
-[GFG](https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/hsinghtyi0)
-[CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/each_sheep_75)
+  <a href="https://www.hackerrank.com/himansh1193"><img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
+  <a href="https://leetcode.com/himansh1193/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a>
+  <a href="https://www.geeksforgeeks.org/user/himansh1193/"><img src="https://img.shields.io/badge/GFG-0F9D58?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/himansh1193"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🏆 HackerRank Skills
-
-
-<p align="center">
-[5 Star](https://img.shields.io/badge/5%20Star-yellow?style=flat)
-[Problem Solving](https://img.shields.io/badge/Problem_Solving-orange?style=flat)
-[C++](https://img.shields.io/badge/C++-blue?style=flat)
-
-
----
-
+### ⭐ HackerRank Skills
+![5 Star](https://img.shields.io/badge/5%20Star-yellow?style=flat) ![Problem Solving](https://img.shields.io/badge/Problem_Solving-orange?style=flat) ![C++](https://img.shields.io/badge/C++-blue?style=flat)
 
 ### 🏅 HackerRank Badges
-
-
-<p align="center">
-  <p>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-   </p>
-
-
----
-
+Skills verified: Core Java, OOPs, Exception Handling, Basic Data Structures
 
 ### 📜 Certifications
+- HackerRank Certified: Java, SQL Basic
 
-
-  [HackerRank](https://img.shields.io/badge/HackerRank-JAVA_BASICS-green)
-  - Skills verified: Core Java, OOPs, Exception Handling, Basic Data Structures
-
-
----
-
-
-### 🎯 Achievements
-
-
-   - **HackerRank Orchestrate 2026 (June Edition)**
-      - Built and deployed an AI agent as part of the hackathon.
-
-
----
-
+### 🏆 Achievements
+- HackerRank Orchestrate 2026 (June Edition) - Built and deployed an AI agent as part of the hackathon.
 
 ### 🛠️ Tech Stack
-
-
 <p align="center">
-   <p>
-       <img src="https://skillicons.dev/icons?i=c,cpp,py,java,html,css,js,react,git,github,vscode" />
-   </p>
-
-
----
-
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,js,react,vscode,git,github" />
+</p>
 
 ### 🚀 Projects
-
-
-<p align="center">
-** [Snake Game](https://github.com/himanshi193/-Snake_Game_Project)
- - Built using HTML, CSS, JavaScript
- - Focused on game logic and DOM manipulation
-
-
----
-
-
-** [Tic Tac Toe](https://github.com/himanshi193/TIC_TAC_TOE-)
+**[Snake Game](https://github.com/himansh1193/-Snake_Game_Project)** - Built using HTML, CSS, JavaScript - Focused on game logic and DOM manipulation
 - Simple interactive game
 - Strengthened JavaScript fundamentals
 
+**[Tic Tac Toe](https://github.com/himansh1193/TIC_TAC_TOE-)** - Simple interactive game
 
----
-
-
-### 📫 Connect With Me
-
-
+### 🔗 Connect With Me
 <p align="center">
-   [LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/himanshi-s-8a525b33b)
-   [Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:hsingh45968@gmail.com)
-
-
----
-
+<a href="https://www.linkedin.com/in/himanshi-soni-6841ba328/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ### 🎯 Current Focus
-
-
-- 📚 Learning Data Structures & Algorithm
-- 💡 Improving problem-solving skills
-
-
---
-
+- Learning Data Structures & Algorithm
+- Improving problem-solving skills
 
 ### 📊 Activity & Coding Stats
-
-
 <p align="center">
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-[GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight)
-
-
----
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=himansh1193&theme=tokyonight&hide_border=true" />
+</p>
 
 ### 📈 Contribution Graph
-
-
-[Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
-
-
----
-
-
-### ✨ Quote
-> "Consistency is more important than perfection."
-
-
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=himansh1193&theme=tokyo-night" />
+</p>
 
